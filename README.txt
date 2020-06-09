@@ -1,0 +1,1 @@
+{\rtf1}这是readme.txt
