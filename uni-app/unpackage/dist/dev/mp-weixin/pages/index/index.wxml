@@ -1,0 +1,1 @@
+<view class="content"><view style="display:flex;justify-content:center;padding:50rpx;"><view class="animated" style="border:1rpx solid #CCCCCC;padding:20rpx;" hover-class="fadeIn">点击效果</view></view></view>
