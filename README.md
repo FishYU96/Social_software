@@ -23,3 +23,12 @@ uni-app是一个使用Vue.js开发跨平台个人文库应用的前端框架，�
 
 ![avatar](http://qbw4crkiq.bkt.clouddn.com/Snipaste_2020-06-25_10-01-57.jpg)
 
+***
+
+##### 项目基本页面展示
+
+![动态](http://qbw4crkiq.bkt.clouddn.com/95c8d1bb9b97b5c5e6e8fedd2d5e264.jpg)
+
+![消息](http://qbw4crkiq.bkt.clouddn.com/5e182ea97dee8acb15b74bf03ccb84d.jpg)
+
+![](http://qbw4crkiq.bkt.clouddn.com/3c73dd181bfbf208acc064bd11a620c.jpg)
